@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chaerin/코테합격자되기_C++/4장",
+      "program": "/Users/chaerin/코테합격자되기_C++/4장/build/Debug/outDebug"
+    }
+  ]
+}
